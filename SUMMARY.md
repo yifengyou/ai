@@ -1,11 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [部署方式](docs/部署方式.md)
-    * [容器部署](docs/容器部署/容器部署.md)
-* [OpenClaw运维](docs/OpenClaw运维.md)
-* [SKILLS编写](docs/SKILLS编写.md)
-* [QClaw记录](docs/QClaw记录.md)
-* [实践](docs/实践.md)
-    * [内核漏洞修复](docs/实践/内核漏洞修复/内核漏洞修复.md)
+* [OpenCode](docs/OpenCode/OpenCode.md)
+    * [部署](docs/OpenCode/部署.md)
+* [OpenClaw](docs/OpenClaw/OpenClaw.md)
+    * [部署](docs/OpenClaw/部署.md)
+    * [SKILLS编写](docs/OpenClaw/SKILLS编写.md)
 
