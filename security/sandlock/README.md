@@ -1,5 +1,7 @@
 # sandlock
 
+* 源码仓库：<https://github.com/multikernel/sandlock>
+
 Sandlock 是一个为 AI Agent 量身定制的、策略优先的轻量级安全沙箱。它旨在解决当前 AI Agent 安全领域普遍存在的过度设计问题，摒弃了容器、微虚拟机等重量级隔离方案，转而采用基于策略的细粒度访问控制，以更高效、更低成本的方式保障 Agent 的运行安全。
 
 ### 🤖 Sandlock 是什么？
